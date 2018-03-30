@@ -1,0 +1,24 @@
+/*  
+Skin Name: Green
+Version: 1.0
+Description: Skin for Elegant
+*/
+
+#headerwrap,
+#footerwrap {
+	background-color: #2ea85c;
+}
+#header,
+#footer,
+#header a,
+#footer a {
+	color: #fff;
+}
+#site-logo span:after,
+#searchform,
+#main-nav .current_page_item a,
+#main-nav .current-menu-item a,
+.back-top a:before,
+.back-top a:after {
+	border-color: #fff;
+}

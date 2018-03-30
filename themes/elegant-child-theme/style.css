@@ -1,0 +1,9 @@
+/*
+Theme Name: Elegant Child Theme
+Description: NOTE: This is a CHILD THEME using Themify's Elegant Theme. WARNING: If you switch themes you may lose functionality. If you want to change the look, make a copy of this theme, rename it, and install it in Wordpress - then start changing the design.
+Author: Themify
+URL: www.themify.me
+Template: themify-elegant
+*/
+
+@import url("../themify-elegant/style.css");

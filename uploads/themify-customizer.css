@@ -1,0 +1,202 @@
+/* Themify Customize Styling */
+body {	
+	background-image: url(http://localhost/zeonhair/wp-content/uploads/2017/04/background2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #000000;
+	font-family:Georgia, 'Times New Roman', Times, serif;	font-size:17px;
+ 
+}
+#headerwrap {	
+	background-color: #000000; 
+}
+#site-logo img {		width: 1570px;
+	height: 143px; 
+}
+#site-logo a {		width: 1570px; 
+}
+#site-description {	display: none; 
+}
+#main-nav a {	
+	font-family:Arial, Helvetica, sans-serif;	font-weight:bold;
+	line-height:18px;
+	text-align:center;
+	color: #c59126;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	margin-right: -5px; 
+}
+#main-nav a:hover {	
+	color: #adaaaa; 
+}
+#main-nav .current_page_item a,  #main-nav .current-menu-item a {	
+	color: #de0051; 
+}
+#footerwrap {	
+	background-color: #c5912c;
+	padding: 0px;
+	margin-top: 0px; 
+}
+.footer-widgets {	
+	font-family:Arial, Helvetica, sans-serif;	font-size:14px;
+ 
+}
+
+/* Themify Custom CSS */
+.back-top {display: none;}
+
+#footerwrap {height: 60px;}
+
+#footer {margin-left: auto; padding: 0px; margin-right: auto; width: 1570px;}
+
+.footer-widgets {margin-left: 10px; margin-right: 10px; padding-top: 10px; line-height: 110%;}
+
+#text-1015 {text-align: center;}
+
+#text-1016 {text-align: right;}
+
+#header {width: 1570px; margin-left: auto; margin-right: auto; padding-top: 0px; padding-bottom: 0px;}
+
+#sidr {background: red; height: 0px;}
+
+#main-nav {margin: 0px; background: blue; padding: 0px; height: 0px;}
+
+#site-logo {margin-bottom: 0px; height: 100px;}
+
+#site-description {padding-top: 0px; margin-bottom: 0px;}
+
+#body {height: 768px;}
+
+.promo {height: 40px; margin-top: 0px;}
+
+.textcolumn {height: 560px; width: 718px; overflow-y: scroll; background-color: white;}
+
+.imagecol {width: 500px; height: 582px;}
+
+#layout {width: 1150px; padding-top: 15px;}
+
+h3 {display: none;}
+
+h1 {font-size: 32px; font-weight: bold; letter-spacing: 1px;}
+
+#fancy-heading-38-0-1-1 {width: 718px;}
+
+ul#main-nav li {padding-top: 0px; padding-bottom: 0px; font-style: normal; letter-spacing: 1px;}
+
+#main-nav .current_page_item a, #main-nav .current-menu-item a {border-bottom: none;}
+
+#main-nav li {border-left: 1px solid #adaaaa;}
+
+li#menu-item-6429 {border-left: none;}
+
+.module-fancy-heading .sub-head{display: none;}
+.module-fancy-heading .main-head{padding-bottom: 10px;}
+
+p { padding-bottom: 17px;}
+
+body {background-size: cover;}
+
+.mfp-title {display: none;}
+
+.testtextcolumn {height: 534px; margin-top: 25px;}
+
+.promotextcolumn {height: 558px;}
+
+.home #content{padding-top: 3.5%;}
+
+#tab {float:right;}
+
+#small {line-height: 90%;}
+
+.col3-1 {height: 50px;}
+
+#footer .footer-widgets .widget{
+margin-bottom:0em;
+}
+
+.imgContainer{
+    float:right;
+}
+
+.gallery-icon {}
+
+.gallery-item {padding-top: 5px; padding-left: 10px;}
+
+.builder_gallery_nav {margin-bottom: 50px;}
+
+.page-numbers {color: #c5912c; font: 20px arial, sans-serif; text-decoration: none; padding: 10px;}
+.page-numbers.current {color: #adaaaa;}
+
+.module-gallery.bordered .gallery-icon {background: #adaaaa; }
+
+#body .gallery-columns-4 .item, #body .gallery-columns-4 .gallery-item {
+    width: 20%; padding: 10px; position: relative;
+    left: 70px; }
+
+
+.ngg-gallery-thumbnail {border-color: #adaaaa; border-width: 3px; background-color: #adaaaa;}
+
+.ngg-gallery-thumbnail a {margin: 0px;}
+
+.ngg-navigation a.next {border: #000000; background: #c5912c;}
+
+.ngg-navigation a.page-numbers {border: #000000; font: 16px arial, sans-serif; color: #c5912c;}
+
+.ngg-navigation {color: #adaaaa; font: 20px arial, sans-serif;  }
+
+.mobile_menu_active #menu-icon { position: inherit; top: 0; color: white;  }
+
+@media screen and (max-width: 976px) {
+ #headerwrap { background-color: black !important; }
+}
+@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+#headerwrap {	
+	background-color: #ffffff; 
+}
+#site-logo img {		width: 1570px;
+	height: 143px; 
+}
+#site-logo a {		width: 1570px; 
+}
+#main-nav a {	
+	color: #c59126; 
+}
+#main-nav a:hover {	
+	color: #adaaaa; 
+}
+#main-nav .current_page_item a,  #main-nav .current-menu-item a {	
+	color: #c90036; 
+}
+#footerwrap {	
+	background-color: #c90036; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#headerwrap {	
+	background-color: #ffffff; 
+}
+#site-logo img {		width: 1570px;
+	height: 143px; 
+}
+#site-logo a {		width: 1570px; 
+}
+#main-nav a {	
+	color: #c59126; 
+}
+#main-nav a:hover {	
+	color: #adaaaa; 
+}
+#main-nav .current_page_item a,  #main-nav .current-menu-item a {	
+	color: #c90036; 
+}
+#footerwrap {	
+	background-color: #c90036; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+#site-logo img {		width: 1570px;
+	height: 143px; 
+}
+#site-logo a {		width: 1570px; 
+}
+ }

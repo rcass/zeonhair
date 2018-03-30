@@ -1,0 +1,24 @@
+Saturday, 16-Sep-2017 15:01:59 - restore started
+Saturday, 16-Sep-2017 15:01:59 - wp version     : 4.8.1
+Saturday, 16-Sep-2017 15:01:59 - php version    : 5.5.22
+Saturday, 16-Sep-2017 15:01:59 - mysql version  : 5.6.32
+Saturday, 16-Sep-2017 15:01:59 - memory limit   : 1024M
+Saturday, 16-Sep-2017 15:01:59 - execution time : 600
+Saturday, 16-Sep-2017 15:01:59 - mysql timeout  : 600
+Saturday, 16-Sep-2017 15:01:59 - socket timeout : 600
+Saturday, 16-Sep-2017 15:01:59 - file download started
+Saturday, 16-Sep-2017 15:02:01 - download finished, filesize - 31.25 MB
+Saturday, 16-Sep-2017 15:02:01 - extracting database using ziparchive
+Saturday, 16-Sep-2017 15:02:01 - changing prefix from "wp_voec_" to "wp_ejzy_"
+Saturday, 16-Sep-2017 15:02:01 - database import started
+Saturday, 16-Sep-2017 15:02:01 - updating mysql query with current site's url - new query : "INSERT INTO wp_ejzy_options VALUES("1", "siteurl", "http://zeonhairdesign.ca", "yes")"
+Saturday, 16-Sep-2017 15:02:05 - mysql query failed. error : 1065 Query was empty - query : ""
+Saturday, 16-Sep-2017 15:02:05 - database import finished
+Saturday, 16-Sep-2017 15:02:05 - search and replace started
+Saturday, 16-Sep-2017 15:02:05 - there are 30 tables to scan
+Saturday, 16-Sep-2017 15:02:07 - search and replace finished
+Saturday, 16-Sep-2017 15:02:07 - extracting archive using ziparchive
+Saturday, 16-Sep-2017 15:02:23 - copying files..
+Saturday, 16-Sep-2017 15:02:43 - deleting temp directory..
+Saturday, 16-Sep-2017 15:02:52 - deleting downloaded zip file..
+Saturday, 16-Sep-2017 15:02:52 - restore finished

@@ -1,0 +1,51 @@
+/* .themify_builder_4_row.module_row_0 Style */
+.themify_builder_4_row.module_row_0.module_row {
+	padding-top : 0px
+}
+
+/* .module_row_0 .module_column_0.tb_4_column Style */
+.module_row_0 .module_column_0.tb_4_column.module_column {
+	background-color: #de0059;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	text-align: center;
+	color: #050505;
+	padding-top : 0px;
+	padding-right : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px
+}
+.module_row_0 .module_column_0.tb_4_column.module_column h1 {
+	color: #050505;
+	font-family: Arial, Helvetica, sans-serif
+}
+.module_row_0 .module_column_0.tb_4_column.module_column h2 {
+	color: #050505;
+	font-family: Arial, Helvetica, sans-serif
+}
+.module_row_0 .module_column_0.tb_4_column.module_column h3:not(.module-title) {
+	color: #050505;
+	font-family: Arial, Helvetica, sans-serif
+}
+.module_row_0 .module_column_0.tb_4_column.module_column h4 {
+	color: #050505;
+	font-family: Arial, Helvetica, sans-serif
+}
+.module_row_0 .module_column_0.tb_4_column.module_column h5 {
+	color: #050505;
+	font-family: Arial, Helvetica, sans-serif
+}
+.module_row_0 .module_column_0.tb_4_column.module_column h6 {
+	color: #050505;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+.themify_builder .text-4-0-0-1.module-text { color: #000000; text-align: center; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;  } 
+.themify_builder .text-4-0-0-1.module-text h1 { color: #000000;  } 
+.themify_builder .text-4-0-0-1.module-text h2 { color: #000000;  } 
+.themify_builder .text-4-0-0-1.module-text h3:not(.module-title) { color: #000000;  } 
+.themify_builder .text-4-0-0-1.module-text h4 { color: #000000;  } 
+.themify_builder .text-4-0-0-1.module-text h5 { color: #000000;  } 
+.themify_builder .text-4-0-0-1.module-text h6 { color: #000000;  } 
+.themify_builder .text-4-0-0-1.module-text a:hover { color: #949494;  } 
+.themify_builder .text-4-1-0-1.module-text { padding-top: 175px;  } 

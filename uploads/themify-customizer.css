@@ -1,6 +1,6 @@
 /* Themify Customize Styling */
 body {	
-	background-image: url(http://localhost/zeonhair/wp-content/uploads/2017/04/background2.jpg);
+	background-image: url(http://zeonhairdesign.ca/wp-content/uploads/2017/04/background2.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-color: #000000;
@@ -10,12 +10,19 @@ body {
 #headerwrap {	
 	background-color: #000000; 
 }
+#headerwrap.fixed-header {	
+	background-color: #000000; 
+}
 #site-logo img {		width: 1570px;
 	height: 143px; 
 }
 #site-logo a {		width: 1570px; 
 }
 #site-description {	display: none; 
+}
+#main-nav {		position:static;
+
+	background-color: #000000; 
 }
 #main-nav a {	
 	font-family:Arial, Helvetica, sans-serif;	font-weight:bold;
@@ -34,10 +41,17 @@ body {
 #main-nav .current_page_item a,  #main-nav .current-menu-item a {	
 	color: #de0051; 
 }
+.module-title {	
+	padding: 0px;
+	margin: 0px; 
+}
 #footerwrap {	
 	background-color: #c5912c;
 	padding: 0px;
 	margin-top: 0px; 
+}
+#footer-nav {	
+	background-color: #0919f2; 
 }
 .footer-widgets {	
 	font-family:Arial, Helvetica, sans-serif;	font-size:14px;
@@ -151,7 +165,7 @@ margin-bottom:0em;
 @media screen and (max-width: 976px) {
  #headerwrap { background-color: black !important; }
 }
-@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
 #headerwrap {	
 	background-color: #ffffff; 
 }

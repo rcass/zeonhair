@@ -7,3 +7,30 @@ Template: themify-elegant
 */
 
 @import url("../themify-elegant/style.css");
+
+/* Header Widget Area CSS */
+.header-widget-container {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 1%;
+}
+
+.header-widget-container aside {
+  margin: 0;
+}
+
+/* Hiding right hand image on mobile & tablet */
+@media (max-width: 650px) {
+  .header-widget-container aside:nth-child(3){
+    display: none;
+  }
+}
+
+/* Hiding middle image on mobile & tablet */
+@media (max-width: 945px) {
+  .header-widget-container aside:nth-child(2){
+    display: none;
+  }
+}

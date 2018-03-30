@@ -24,8 +24,10 @@ global $themify; ?>
 
         	<?php themify_header_start(); // hook ?>
 
-[     <!-- Header Widget Area -->
-      <?php dynamic_sidebar( 'header-widget' ); ?>    ]
+      <!-- Header Widget Area -->
+      <div class="header-widget-container">
+        <?php dynamic_sidebar( 'header-widget' ); ?>
+      </div>
 
 			<?php // echo themify_logo_image(); ?>
 			<?php if ( $site_desc = get_bloginfo( 'description' ) ) : ?>

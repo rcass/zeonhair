@@ -35,11 +35,6 @@ global $themify; ?>
 				<div id="site-description" class="site-description"><?php echo class_exists( 'Themify_Customizer' ) ? $themify_customizer->site_description( $site_desc ) : $site_desc; ?></div>
 			<?php endif; ?>
 
-
-
-
-
-
 			<a id="menu-icon" href="#sidr" data-uk-offcanvas="{target:'#sidr'}"></a>
 			<nav id="sidr" class="uk-offcanvas">
 				<div class="uk-offcanvas-bar uk-offcanvas-bar-flip">
